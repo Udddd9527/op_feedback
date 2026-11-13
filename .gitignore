@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+.local/
+outputs/
+deploy/op-feedback-center-ng-i8.yaml
+
